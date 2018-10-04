@@ -19,11 +19,11 @@ Oraby, S., Reed, L., Compton, R., Riloff, E., Walker, M., & Whittaker, S. (2015)
 
 ## Posters
 
-Compton, R., Whittaker, S. (2015). Content Based Models to Classify Argument Style. Presented at 2015 Data Science Afternoon at UC-Santa Cruz. Santa Cruz, CA, USA.
+Compton, R., Whittaker, S. (2015). [Content Based Models to Classify Argument Style.](https://users.soe.ucsc.edu/~rcompton/Posters/Content%20Models%20for%20Argment%20classification-poster.jpg) Presented at 2015 Data Science Afternoon at UC-Santa Cruz. Santa Cruz, CA, USA.
 
-Misra, A., Fava, D., Rhodes, D., Dettmer, B., & Compton, R. (2014) Ranking Politicos: A Mobile Application for Ranking Brazilian Politics. Presented at UCSC HCI poster session. Santa Cruz, CA, USA.
+Misra, A., Fava, D., Rhodes, D., Dettmer, B., & Compton, R. (2014) [Ranking Politicos: A Mobile Application for Ranking Brazilian Politics.](https://users.soe.ucsc.edu/~rcompton/Posters/RankingPoliticos.jpg) Presented at UCSC HCI poster session. Santa Cruz, CA, USA.
 
-Gereke, B., Compton, R., and Fellous, JM. (2011). Sex Differences in Rodent Optimal Spatial Navigation: Influences of Estrous Cycle and Object Cues in the Traveling Salesperson Problem. Presented at the Poster session of Society for Neuroscience 2011. (SFN '11). Washington D.C., USA.
+Gereke, B., Compton, R., and Fellous, JM. (2011). [Sex Differences in Rodent Optimal Spatial Navigation: Influences of Estrous Cycle and Object Cues in the Traveling Salesperson Problem.](http://amygdala.psychdept.arizona.edu/posters/SFN2011Poster_TSP.pdf) Presented at the Poster session of Society for Neuroscience 2011. (SFN '11). Washington D.C., USA.
 
 
 ## Past Submissions

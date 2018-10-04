@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Projects
-cover: waterfall_main.jpg
+cover: portland_flowers.jpg
 categories: posts
 ---
 
