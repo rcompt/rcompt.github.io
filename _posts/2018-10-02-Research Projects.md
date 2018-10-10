@@ -5,6 +5,8 @@ cover: portland_flowers.jpg
 categories: posts
 ---
 
+#Current Work
+
 ## Distinguishing member and leader roles
 
 One major distinction within communities is between leaders and members. My work is continuing on the already existing literature of online social roles through examining social roles within enterprise communities. Through a mixed method approach of analyzing content and behaviors of self defined roles, I have been able to develop models in order to distinguish such roles.
@@ -21,7 +23,7 @@ Social roles typically are defined in relational terms, with this in mind it is 
 
 There is has been much literature on the changes of roles and communities over time, however little quantitative evidence has been provided. My final goal of my thesis is to understand social role changes over time and how member-leader responsibilities are fluid through the life-cycle of a community.
 
-## Older Projects
+# Older Projects
 
 Analytics of large scale online communities to predict online individual and social behavior. Various descriptive lifecycle models characterize community development, but there has been little quantitative exploration of how communities change over time, specifically how they organize and structure extensive long-term content. I'm exploring whether content is organized, who organizes it, and which social media tools they use. Technical implications include the need for more dedicated support for curation, in particular to better exploit linking tools and to encourage members to take more responsibility for organization. The ultimate goal is to identify successful individual and community practices and metrics to increase online community health..
 
