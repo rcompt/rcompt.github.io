@@ -28,5 +28,5 @@ Gereke, B., Compton, R., and Fellous, JM. (2011). [Sex Differences in Rodent Opt
 
 ## Past Submissions
 
-Chen, J., Compton, R., Das, A., Huany, Y., Kobourov, S., Shen, P., Veeramoni, S. and Xu, Y. [AngryAnts: A citizen science approach to computing accurate average trajectories.](https://arxiv.org/abs/1212.0935v1) Submitted to Symposium on Computational Geometry 2013. Link to Game
+Chen, J., Compton, R., Das, A., Huany, Y., Kobourov, S., Shen, P., Veeramoni, S. and Xu, Y. [AngryAnts: A citizen science approach to computing accurate average trajectories.](https://arxiv.org/abs/1212.0935v1) Submitted to Symposium on Computational Geometry 2013. [Link to Game Website](http://cgi.cs.arizona.edu/projects/angryants/)
 
