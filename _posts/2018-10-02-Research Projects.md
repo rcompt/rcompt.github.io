@@ -9,11 +9,11 @@ categories: posts
 
 ### Distinguishing member and leader roles
 
-One major distinction within communities is between leaders and members. My work is continuing on the already existing literature of online social roles through examining social roles within enterprise communities. Through a mixed method approach of analyzing content and behaviors of self defined roles, I have been able to develop models in order to distinguish such roles.
+One major distinction within communities is between leaders and members. My work is continuing on the already existing literature of online social roles through examining social roles within enterprise communities. Through a mixed method approach of analyzing content and behaviors of self defined roles, I have been able to develop models in order to distinguish such roles. Work here is to be presented at CSCW 2018: __Living in the Present: Understanding Long-Term Content Referencing in Enterprise Online Communities__
 
 ### Ecology of Social Roles
 
-Social roles typically are defined in relational terms, with this in mind it is needed to understand the social influence that roles have on each other. This work is expanding upon simple role differences by examining a community as an ecology through social network analysis and graphical modeling. Two approaches my work is taking is that of user-community interaction and smaller dyadic interactions between two users. I further expanded this work to examine substructures called (Graphlets)[https://en.wikipedia.org/wiki/Graphlets] that exist within the larger community network. I believe such substructures can measure the collaborative nature of small-groups. 
+Social roles typically are defined in relational terms, with this in mind it is needed to understand the social influence that roles have on each other. This work is expanding upon simple role differences by examining a community as an ecology through social network analysis and graphical modeling. Two approaches my work is taking is that of user-community interaction and smaller dyadic interactions between two users. I further expanded this work to examine substructures called [Graphlets](https://en.wikipedia.org/wiki/Graphlets) that exist within the larger community network. I believe such substructures can measure the collaborative nature of small-groups. 
 
 ### Success of Social Role Behaviors
 
