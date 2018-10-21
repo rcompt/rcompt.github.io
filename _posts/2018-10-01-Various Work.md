@@ -9,7 +9,7 @@ categories: posts
 
 ### [Manifest Destiny: Are Progressive Web Application Destined to Expand Across Our Online Experiences?](https://medium.com/ebaydesign/manifest-destiny-92cdace24869) Jan. 2018
 
-This project was completed during my Summer '17 internship at eBay, Inc under the management of [Tony Topper](https://www.linkedin.com/in/tonytopper/). We explored the incorporation of Progressive Web Application features inside a design experiment enviroment and how this changes the strategies of designing a better user experience. Three angles were explored, the implication to web app design practices, the user experience, and design research. 
+This project was completed during my Summer '17 internship at eBay, Inc. We explored the incorporation of Progressive Web Application features inside a design experiment enviroment and how this changes the strategies of designing a better user experience. Three angles were explored, the implication to web app design practices, the user experience, and design research. 
 
 ### [Emotional Expressions in Online Settings: How I Spun Down a Data Mining Hole of Emotion](https://users.soe.ucsc.edu/~rcompton/Papers/Essays/EmotionalExpressionsinOnlineSettings.pdf) Mar. 2017
 
