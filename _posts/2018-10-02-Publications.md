@@ -7,11 +7,11 @@ categories: posts
 
 ## Publications
 
-Wu, J., **Compton, R.**, Rakshit, G., Walker, M., Anand, P., and Whittaker, S. 2019. [CruzAffect: a feature-rich approach to characterize happiness.](https://arxiv.org/abs/1902.06024) To appear in the Workshop on Affective Content Analysis. AffCon. 2019, Association for the Advancement of Artificial Intelligence (AAAI) (January 2019), Hawaii, US.
+Wu, J., **Compton, R.**, Rakshit, G., Walker, M., Anand, P., & Whittaker, S. 2019. [CruzAffect: a feature-rich approach to characterize happiness.](https://arxiv.org/abs/1902.06024) To appear in the Workshop on Affective Content Analysis. AffCon. 2019, Association for the Advancement of Artificial Intelligence (AAAI) (January 2019), Hawaii, US.
 
-**Compton, R.**, Warshaw, J., Badenes, H., Smith, B., and Whittaker, S. 2018. [Living in the Present: Understanding Long-Term Content Referencing in Enterprise Online Communities.](https://users.soe.ucsc.edu/~rcompton/Papers/cscw039-comptonA.pdf) Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 39 (November 2018), 21 pages. 
+**Compton, R.**, Warshaw, J., Badenes, H., Smith, B., & Whittaker, S. 2018. [Living in the Present: Understanding Long-Term Content Referencing in Enterprise Online Communities.](https://users.soe.ucsc.edu/~rcompton/Papers/cscw039-comptonA.pdf) Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 39 (November 2018), 21 pages. 
 
-**Compton, R.**, Chen, J., Haber, E., Badenes, H., Whittaker, S. 2017. [‘Just the Facts’: Exploring the Relationship between Emotional Language and Member Satisfaction in Enterprise Online Communities.](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15664) In Proceedings of the 11th International Conference on Web and Social Media. AAAI. (May, 2017), Montreal, QC, CA.
+**Compton, R.**, Chen, J., Haber, E., Badenes, H., & Whittaker, S. 2017. [‘Just the Facts’: Exploring the Relationship between Emotional Language and Member Satisfaction in Enterprise Online Communities.](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15664) In Proceedings of the 11th International Conference on Web and Social Media. AAAI. (May, 2017), Montreal, QC, CA.
 
 **Compton, R.** [Theory Driven Community Analytics and Influence on Community Success.](https://doi.org/10.1145/2818052.2874355) In Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion (pp. 135-138). ACM. (February ,2016), San Francisco, CA, US.
 
