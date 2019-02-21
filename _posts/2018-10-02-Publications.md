@@ -7,7 +7,7 @@ categories: posts
 
 ## Publications
 
-Wu, J., **Compton**, R., Rakshit, G., Walker, M., Anand, P., and Whittaker, S. 2019. [CruzAffect: a feature-rich approach to characterize happiness.](https://arxiv.org/abs/1902.06024) To appear in the Workshop on Affective Content Analysis (AffCon) 2019, Association for the Advancement of Artificial Intelligence (AAAI) (January 2019), Hawaii, US.
+Wu, J., **Compton, R.**, Rakshit, G., Walker, M., Anand, P., and Whittaker, S. 2019. [CruzAffect: a feature-rich approach to characterize happiness.](https://arxiv.org/abs/1902.06024) To appear in the Workshop on Affective Content Analysis. AffCon. 2019, Association for the Advancement of Artificial Intelligence (AAAI) (January 2019), Hawaii, US.
 
 **Compton, R.**, Warshaw, J., Badenes, H., Smith, B., and Whittaker, S. 2018. [Living in the Present: Understanding Long-Term Content Referencing in Enterprise Online Communities.](https://users.soe.ucsc.edu/~rcompton/Papers/cscw039-comptonA.pdf) Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 39 (November 2018), 21 pages. 
 
