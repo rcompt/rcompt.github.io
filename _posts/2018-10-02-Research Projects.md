@@ -5,7 +5,7 @@ cover: portland_flowers.jpg
 categories: posts
 ---
 
-## Current Work
+## PhD Work
 
 ### Distinguishing member and leader roles
 
