@@ -5,6 +5,17 @@ cover: portland_flowers.jpg
 categories: posts
 ---
 
+## Quantiply
+
+### Dynamic Customer Segmentation
+Common practice for a business to better understand their customer base is to categorize their customers into discrete peer groups based on categories such as their activits, income levels, spending behaviors, products being used, demographics, or geography. This is typically accomplished through Customer Segmentation, however simple implementations of this process can be riddle with flaws as this process tends to be static, data is treated as the same, and differences are considered walls. We developed an adaptive customer segmentation approach to make this process more dynamic and aggregate many different data sources. This solution allowed for better representations of customer dynamics without losing the power of interpretability or simplicity of customer segmentation.
+
+### AMLSim
+The interest and exploration around AI solutions for financial crimes has gained much interest in the recent years. However, this hasn't come as qucikly as other fields for which AI has become rapidly deployed. AI, specifically Machine Learning, is bounded by the data being used and within financial crimes the data is very sparse and hard to come across (for good reason as it is extremely private). Through expanding the work done by researchers at [MIT and IBM](https://arxiv.org/pdf/1812.00076.pdf), where they build an [Anit-Money Laundering simulator](https://github.com/IBM/AMLSim), we enhanced our AI capabilities through incorporating much needed behavioral patterns to train our models for better accountability within financial crimes. 
+
+### Explanable Graph Embeddings
+Financial activities can be described through a graphical approach allowing for many state-of-the-art techniques to help extract meaningful information. We explored [Graph Embeddings](https://en.wikipedia.org/wiki/Graph_embedding) in our modeling efforts to improve the amount of information gained from networks. However, embeddings actually create more abstraction rather than explanation. Our work focused on algorithmic approaches to better explain these embeddings and provide better accountability for our models. Our work was submitted to [AAAI-Make 2020](https://www.aaai-make.info/cfp/)
+
 ## PhD Work
 
 ### Distinguishing member and leader roles
