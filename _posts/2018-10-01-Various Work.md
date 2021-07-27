@@ -7,6 +7,12 @@ categories: posts
 
 ## Various Works and Essays
 
+### [Risks and Remedies for Black Box Artificial Intelligence](https://c3.ai/blog/risks-and-remedies-for-black-box-artificial-intelligence/) Aug. 2020
+
+There is no denying that artificial intelligence (AI) and machine learning technologies will shape our future. Advanced AI systems can solve the most complex business problems and create significant economic benefits for organizations. But coupling such systems with poor interpretability - also referred to as explainability - can create a recipe for disaster.
+
+In this article, we outline the issues that can be addressed through implementing interpretable AI, the challenges to AI interpretability, and how the C3 AI Suite supports AI interpretability.
+
 ### [Manifest Destiny: Are Progressive Web Application Destined to Expand Across Our Online Experiences?](https://medium.com/ebaydesign/manifest-destiny-92cdace24869) Jan. 2018
 
 This project was completed during my Summer '17 internship at eBay, Inc. We explored the incorporation of Progressive Web Application features inside a design experiment enviroment and how this changes the strategies of designing a better user experience. Three angles were explored, the implication to web app design practices, the user experience, and design research. 
