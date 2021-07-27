@@ -7,7 +7,11 @@ categories: posts
 
 ## Publications
 
-**Compton, R.** [A Data-driven Approach to the Fragile Families Challenge: Prediction through Principal-Components Analysis and Random Forests.](https://users.soe.ucsc.edu/~rcompton/Papers/DataDriven_FFChallenge.pdf) Socius: Sociological Research for a Dynamic World, 5, 2019 (InPress)
+Tomar, S., & **Compton, R.** (2020). [Vec2Struc: A Method Towards Explainable Structural-Based Node Embeddings.](http://ceur-ws.org/Vol-2600/short2.pdf) In AAAI Spring Symposium: Combining Machine Learning with Knowledge Engineering (1).
+
+Salganik, M. J., ... **Compton, R. J.,** ... & McLanahan, S. (2020). [Measuring the predictability of life outcomes with a scientific mass collaboration.](https://www.pnas.org/content/117/15/8398?etcc_med=newsletter&etcc_cmp=nl_algoethik_17907&etcc_plc=aufmacher&etcc_grp=&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_1) Proceedings of the National Academy of Sciences, 117(15), 8398-8403.
+
+**Compton, R.** [A Data-driven Approach to the Fragile Families Challenge: Prediction through Principal-Components Analysis and Random Forests.](https://users.soe.ucsc.edu/~rcompton/Papers/DataDriven_FFChallenge.pdf) Socius: Sociological Research for a Dynamic World, 5, 2378023118818720 (2019).
 
 Wu, J., **Compton, R.**, Rakshit, G., Walker, M., Anand, P., & Whittaker, S. 2019. [CruzAffect: a feature-rich approach to characterize happiness.](https://arxiv.org/abs/1902.06024) In the Workshop on Affective Content Analysis. AffCon. 2019, Association for the Advancement of Artificial Intelligence (AAAI) (January 2019), Hawaii, US.
 
