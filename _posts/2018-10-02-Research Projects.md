@@ -5,6 +5,11 @@ cover: portland_flowers.jpg
 categories: posts
 ---
 
+## C3.ai
+
+### Risks and Remedies for Black Box Artificial Intelligence
+There is no denying that artificial intelligence (AI) and machine learning technologies will shape our future. Advanced AI systems can solve the most complex business problems and create significant economic benefits for organizations. But coupling such systems with poor interpretability - also referred to as explainability - can create a recipe for disaster. In this article, we outline the issues that can be addressed through implementing interpretable AI, the challenges to AI interpretability, and how the C3 AI Suite supports AI interpretability.
+
 ## Quantiply
 
 ### Dynamic Customer Segmentation
