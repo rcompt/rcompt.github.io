@@ -33,5 +33,5 @@ ship was moving in this void was hard without a relative measure or object provi
 a shape to stay at the origin. It works well enough to move to the next step of scripting AI!
 
 I've got a screenshot of the arrow and shape for reference.
-![alt text](images/Screenshot 2024-03-03.png)
+![Vector Reference Arrow]{{ '/images/Screenshot 2024-03-03.png' | prepend: site.baseurl }}
 
