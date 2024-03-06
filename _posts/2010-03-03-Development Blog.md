@@ -12,6 +12,13 @@ categories: posts
 
 ### Daily Log
 
+#### March 5th, 2024 - Vectors and rotations
+I've been working through figuring out how to set up an AI routine to control the spaceships. This is proving to be another challenge, in that vector systems are complicated... Turns out when dealing with RigidBody3D objects, there really are two spatial systems at play. The global one representing the spacial mapping of the scene and the relative or basis of the RigidBody3D, think of this as the self reference axis. This helps determine self direction, think looking to your left as opposing to tell someone to look north. At least that is how I was able to understand it. Anyway, this learning fixed my rotation issue as the rotation functions were applying rotations in the global coordinates instead of the relative ones. So I need to figure out a way to get relative rotational torque vectors. This hasn't been easy so far as no searching has provided with straightforward solutions so I'm attempting to draw out the solution myself. Crossing my fingers! 
+
+At least there was progress these past two days, I can direct an AI to rotate a ship towards it's target with the correct orientation. Also I've confirmed my usage of Signals in Godot is correct! And I've got a selection system in place for only controlling one ship at a time, however given the red vectors in one the screenshots, you can see I still have work to do. I also updated the skybox and ambiant light to a more bright yellow to make it more clear than the purple.
+![Successful rotation]{{ '/images/Screenshot 2024-03-05-1.png' | prepend: site.baseurl }}
+![Two vector arrow]{{ '/images/Screenshot 2024-03-05-2.png' | prepend: site.baseurl }}
+
 #### March 3rd, 2024 - Starting a blog to track and document
 Due to my friend Zack's suggestion, I am starting to log and keep track of my work in video game development. 
 
