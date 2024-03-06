@@ -32,5 +32,6 @@ space controls. Next was figuring out how vectors work to get a good directional
 ship was moving in this void was hard without a relative measure or object providing direction. So I added both a measure (a red arrow) and
 a shape to stay at the origin. It works well enough to move to the next step of scripting AI!
 
-I've got a screenshot above of the arrow and shape for reference.
+I've got a screenshot of the arrow and shape for reference.
+![alt text](images/Screenshot 2024-03-03.png "Title")
 
