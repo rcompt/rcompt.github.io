@@ -18,7 +18,8 @@ Turns out it was a much more simplier answer to get the proper rotational vector
 The main goal with my AI at this time is to have it control the ship with the same controls I would have to use. So this means we both are sending a signal to apply a force to the ship and then have to apply an equal force at a time to stop the moment. The AI will have the advantage of a system telling it the exact math to handle more complicated movements (two or three rotational axes at once). Anyway, I figure it will be sometime before my next update as this little goals usually take longer than I expect.
 
 Here are some screenshots of me playing around with the ship and conduct a rendezvous with them! Then I rotate around and continue to verify the rotational vectors are correct, I was very relieved when they continued to do so!
-![Successful rendezvous]{{ './images/Screenshot 2024-03-12-1.png' }}
+
+![Successful rendezvous]{{ 'https://github.com/rcompt/rcompt.github.io/blob/master/images/Screenshot%202024-03-12-1.png?raw=true' }}
 ![Successful rotation at rendezvous]{{ './images/Screenshot 2024-03-12-2.png' }}
 
 #### March 5th, 2024 - Vectors and rotations
