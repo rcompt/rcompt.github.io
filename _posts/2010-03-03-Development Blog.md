@@ -19,8 +19,8 @@ The main goal with my AI at this time is to have it control the ship with the sa
 
 Here are some screenshots of me playing around with the ship and conduct a rendezvous with them! Then I rotate around and continue to verify the rotational vectors are correct, I was very relieved when they continued to do so!
 
-![Successful rendezvous](https://github.com/rcompt/rcompt.github.io/blob/master/images/Screenshot%202024-03-12-1.png?raw=true)
-![Successful rotation at rendezvous](https://github.com/rcompt/rcompt.github.io/blob/master/images/Screenshot%202024-03-12-2.png?raw=true)
+![Successful rendezvous](https://github.com/rcompt/rcompt.github.io/blob/master/images/Screenshot%202024-03-12-1.png?raw=true){width=734}
+![Successful rotation at rendezvous](https://github.com/rcompt/rcompt.github.io/blob/master/images/Screenshot%202024-03-12-2.png?raw=true){width=734}
 
 #### March 5th, 2024 - Vectors and rotations
 I've been working through figuring out how to set up an AI routine to control the spaceships. This is proving to be another challenge, in that vector systems are complicated... Turns out when dealing with RigidBody3D objects, there really are two spatial systems at play. The global one representing the spacial mapping of the scene and the relative or basis of the RigidBody3D, think of this as the self reference axis. This helps determine self direction, think looking to your left as opposing to tell someone to look north. At least that is how I was able to understand it. Anyway, this learning fixed my rotation issue as the rotation functions were applying rotations in the global coordinates instead of the relative ones. So I need to figure out a way to get relative rotational torque vectors. This hasn't been easy so far as no searching has provided with straightforward solutions so I'm attempting to draw out the solution myself. Crossing my fingers! 
