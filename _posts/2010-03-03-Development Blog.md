@@ -19,7 +19,7 @@ The main goal with my AI at this time is to have it control the ship with the sa
 
 Here are some screenshots of me playing around with the ship and conduct a rendezvous with them! Then I rotate around and continue to verify the rotational vectors are correct, I was very relieved when they continued to do so!
 
-<figure border="1">
+<figure>
   <img src="https://github.com/rcompt/rcompt.github.io/blob/master/images/Screenshot%202024-03-12-1.png?raw=true" alt="drawing" width="734"/>
   <figcaption>Successful rendezvous</figcaption>
 </figure>
